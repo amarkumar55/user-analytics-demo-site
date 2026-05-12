@@ -1,5 +1,5 @@
 (function () {
-  const API_URL = "https://user-analytics-api.onrender.com/api/v1/events";
+  const API_URL = "https://user-analytics-api-zzqo.onrender.com/api/v1/events";
 
   let sessionId = localStorage.getItem("sessionId");
 
